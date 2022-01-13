@@ -3,6 +3,12 @@ body{
 }
 
 
+.container{
+    height: 100%;
+    width: 80%;
+    margin: auto;
+}
+
 header{
     height: 150px;
     width: 100%;
@@ -34,6 +40,7 @@ header{
 
 .immagini-di-copertina{
     margin-top: 20px;
+    margin: auto;
 }
 
 
