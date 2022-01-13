@@ -34,3 +34,13 @@ header{
 .immagini-di-copertina{
     margin-top: 20px;
 }
+
+
+.evidenziato{
+    background-color: yellow;
+}
+
+
+.lista{
+    padding-top: 10px;
+}
