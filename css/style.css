@@ -20,14 +20,16 @@ header{
 
 
 .titolo-articolo{
-    font-size: 30px;
+    font-size: 40px;
     margin-bottom: 0;
 }
 
 
 
 .sottotitolo, .data{
-    color: lightgrey;
+    color: gray;
+    margin: 0;
+    font-size: 15px;
 }
 
 
@@ -45,16 +47,12 @@ header{
     padding-top: 10px;
 }
 
-table{
-    table-layout: collapse;
-
-}
 
 td{
     width: 25%;
 }
 
-#cella-lunga{
+.cella-lunga{
     width: 50%;
 }
 
@@ -68,4 +66,24 @@ thead{
 
 .riga-colorata{
     background-color: turquoise;
+}
+
+footer{
+    padding-top: 25px;
+    position: relative;
+}
+
+#sottotitolo-footer {
+    padding-bottom: 15px;
+}
+
+footer > div{
+    padding-bottom: 15px;
+    
+}
+
+.didascalia-video{
+    position: absolute;
+    left: 10px;
+    color: white;
 }
