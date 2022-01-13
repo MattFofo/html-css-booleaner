@@ -44,3 +44,28 @@ header{
 .lista{
     padding-top: 10px;
 }
+
+table{
+    table-layout: collapse;
+
+}
+
+td{
+    width: 25%;
+}
+
+#cella-lunga{
+    width: 50%;
+}
+
+
+thead{
+    height: 10px;
+    background-color: blue;
+    color: white;
+}
+
+
+.riga-colorata{
+    background-color: turquoise;
+}
