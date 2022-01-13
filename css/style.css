@@ -17,3 +17,20 @@ header{
     width: 200px;
     bottom: 0px;  
 }
+
+
+.titolo-articolo{
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+
+
+.sottotitolo, .data{
+    color: lightgrey;
+}
+
+
+.immagini-di-copertina{
+    margin-top: 20px;
+}
